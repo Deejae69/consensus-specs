@@ -1,0 +1,10 @@
+{
+	"hooks": {research /create-actions}
+		"UserPromptSubmit": [help]
+			{
+				"type": "command",
+				"command": "help commands"
+			}
+		]
+	}
+}
